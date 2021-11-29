@@ -3,13 +3,13 @@
 ### INSTALLATION :-
 
 `````````````
-npm i connect-to-mongo-db
+npm i connect-to-mongodb
 `````````````
 
 ### IMPORT IN YOUR PROJECT : -
 
 `````````````
-const mongodb = require('connect-to-mongo-db');
+const mongodb = require('connect-to-mongodb');
 
 `````````````
 
