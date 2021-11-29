@@ -1,5 +1,5 @@
 {
-  "name": "connect-to-mongodb",
+  "name": "connect-to-mongo-db",
   "version": "1.0.0",
   "description": "### insallation",
   "main": "index.js",
@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/mahender214471/connect-to-mongodb/issues"
   },
-  "homepage": "https://github.com/mahender214471/connect-to-mongodb#readme"
+  "homepage": "https://github.com/mahender214471/connect-to-mongodb#readme",
+  "devDependencies": {}
 }

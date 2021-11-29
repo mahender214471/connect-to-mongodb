@@ -3,7 +3,7 @@
 ### INSTALLATION :-
 
 `````````````
-npm i connect-to-mongodb
+npm i connect-to-mongo-db
 `````````````
 
 ### IMPORT IN YOUR PROJECT : -
