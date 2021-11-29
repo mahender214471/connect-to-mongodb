@@ -1,5 +1,5 @@
 {
-  "name": "connect-to-mongo",
+  "name": "connect-to-mongodb",
   "version": "1.0.0",
   "description": "### insallation",
   "main": "index.js",
