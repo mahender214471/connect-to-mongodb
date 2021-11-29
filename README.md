@@ -9,7 +9,7 @@ npm i connect-to-mongo-db
 ### IMPORT IN YOUR PROJECT : -
 
 `````````````
-const mongodb = require('connect-to-mongodb');
+const mongodb = require('connect-to-mongo-db');
 
 `````````````
 
