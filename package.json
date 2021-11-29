@@ -1,15 +1,23 @@
 {
   "name": "connect-to-mongodb",
   "version": "1.0.0",
-  "description": "",
+  "description": "### insallation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "mahender rajput",
   "license": "ISC",
   "dependencies": {
     "mongoose": "^6.0.13"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahender214471/connect-to-mongodb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mahender214471/connect-to-mongodb/issues"
+  },
+  "homepage": "https://github.com/mahender214471/connect-to-mongodb#readme"
 }

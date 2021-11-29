@@ -139,7 +139,7 @@ class database {
         return `invalid collaton name `;
       }
       else{
-        const data = await this.db.collections[collection].update(filter , { $set:updateValue });
+        const data = await this.db.collections[collection].updateMany(filter , { $set:updateValue });
         return data;
       }
     }
