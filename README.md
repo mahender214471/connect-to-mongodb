@@ -53,7 +53,7 @@ const contact = () => {
  module.exports = contact;
 `````````````
 
-##### FOR WRITE THE DOCUMENT IN MONGO-BD :-
+##### FOR WRITE THE DOCUMENT IN MONGO-DB :-
 
 `````````````
 //for write the document ;
@@ -67,7 +67,7 @@ const data = {
 const data =  db.Write(collationName , data ) ;
 `````````````
 
-##### FOR READ THE DOCUMENT IN MONGO-BD :-
+##### FOR READ THE DOCUMENT IN MONGO-DB :-
 
 `````````````
 //for read the document ;
@@ -75,7 +75,7 @@ const collationName = 'contactForm' ;
 const filter        = {  name:'name' }
 const data =  db.Read(collationName , filter ) ;
 `````````````
-##### FOR UPDATE THE DOCUMENT IN MONGO-BD :-
+##### FOR UPDATE THE DOCUMENT IN MONGO-DB :-
 
 `````````````
 //for update the document ;
@@ -87,7 +87,7 @@ const updatevalue   = {
  }
 const data =  db.Update(collationName , filter , updatevalue ) ;
 `````````````
-##### FOR DELETE THE DOCUMENT IN MONGO-BD :-
+##### FOR DELETE THE DOCUMENT IN MONGO-DB :-
 
 `````````````
 //for delete the document ;
